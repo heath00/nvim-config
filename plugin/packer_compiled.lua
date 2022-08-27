@@ -129,11 +129,6 @@ _G.packer_plugins = {
     path = "/Users/heathreineke/.local/share/nvim/site/pack/packer/start/nvim-treesitter-textobjects",
     url = "https://github.com/nvim-treesitter/nvim-treesitter-textobjects"
   },
-  ["onedark.nvim"] = {
-    loaded = true,
-    path = "/Users/heathreineke/.local/share/nvim/site/pack/packer/start/onedark.nvim",
-    url = "https://github.com/mjlbach/onedark.nvim"
-  },
   ["packer.nvim"] = {
     loaded = true,
     path = "/Users/heathreineke/.local/share/nvim/site/pack/packer/start/packer.nvim",
@@ -171,6 +166,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/heathreineke/.local/share/nvim/site/pack/packer/start/vim-sleuth",
     url = "https://github.com/tpope/vim-sleuth"
+  },
+  ["vim-synthwave84"] = {
+    loaded = true,
+    path = "/Users/heathreineke/.local/share/nvim/site/pack/packer/start/vim-synthwave84",
+    url = "https://github.com/artanikin/vim-synthwave84"
   }
 }
 
